@@ -70,8 +70,6 @@ interface HomeProps {
         }
       }
     });
-    
-    console.log(postsResponse);
 
     return {
       props: {
